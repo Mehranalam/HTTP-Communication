@@ -1,0 +1,35 @@
+Core
+	This section 
+	has not been 
+	written yet.
+Commands
+	ArrayList<String> STORE_DATA
+	Process RUN_COMMAND_CURL_BASE
+	void GET_METHOD_CURL_BASE
+GET
+	String URL
+	String PATTERN
+	Commands GET_OPERATION
+	Constructor
+	PASSING_TO_RUN_COMMAND_CURL_BASE(Link)
+	SAVING_JSON_FILE_GET(Link)
+ExceptionHandler
+	This section 
+	has not been 
+	written yet.
+POST
+	This section 
+	has not been 
+	written yet.
+Link
+	String PASSING_TO_RUN_COMMAND_CURL_BASE
+	void SAVING_JSON_FILE_GET
+
+
+POST-Instance-Commands
+GET-Instance-Commands
+Core-inheritance-ExceptionHandler
+Core-PutData-POST
+Link{*}-implements-{*}POST
+Link-implements-GET
+Core{}-Instance-{}GET

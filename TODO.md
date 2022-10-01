@@ -1,0 +1,8 @@
+- [X] Algorithm design and how to implement.
+- [ ] Writing Core.java and basic logic.
+- [X] Work to send requests under the HTTP/GET protocol.
+- [ ] Work on sending information under the HTTP/POST protocol.
+- [ ] Completing the exception handler and managing errors in the most correct way possible.
+- [ ] clean architecture and compliance with the principles of clean code.
+- [ ] Using [Google style code](https://google.github.io/styleguide/javaguide.html) in the project.
+- [X] Create Report Diagram.
