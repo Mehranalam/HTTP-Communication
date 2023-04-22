@@ -1,4 +1,5 @@
 HTTP Communication
+[![Java CI with Maven](https://github.com/Mehranalam/HTTP-Communication/actions/workflows/maven.yml/badge.svg)](https://github.com/Mehranalam/HTTP-Communication/actions/workflows/maven.yml)
 ==================
 
 This library is actually a shell of cURL and provides ``CURL`` features and functions under classes and interfaces for use in Java and ``Android projects``.  This library is expected to run on all platforms under the ``JVM``, the CURL tool is a platform-independent terminal kit with a long history.
